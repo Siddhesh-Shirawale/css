@@ -1,0 +1,118 @@
+#lorem {
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 20px;
+   padding-right: 20px;
+
+   margin: 10px;
+   border-top: 5px solid #00308f;
+   border-bottom: 5px dotted #00308f;
+   border-left: 5px dashed #00308f;
+   border-right: 5px double #00308f;
+   /*
+      border: 5px solid green;
+      border-width, border-style, border-color
+      none, dotted, dashed, solid, double, groove, ridge, inset, outset
+  */
+
+   background: #cfdbe7;
+   /*
+  background: color position/size repeat origin clip attachment
+  image|initial|inherit;
+  background-position: left top bottom right
+  (If you only specify one the other value will be center)
+  background-size: auto length;
+  background-repeat: repeat repeat-x repeat-y no-repeat
+  background: #F2F3F4 url("Repeat.png") repeat;
+  */
+
+   /*
+  background: color position/size repeat origin clip attachment
+  image|initial|inherit;
+  background-position: left top bottom right
+  (If you only specify one the other value will be center)
+  background-size: auto length;
+  background-repeat: repeat repeat-x repeat-y no-repeat
+  background: #F2F3F4 url("Repeat.png") repeat;
+  */
+}
+
+#fsNormal {
+   font-style: normal;
+}
+
+#fsItalic {
+   font-style: italic;
+}
+
+#fsOblique {
+   font-style: oblique;
+}
+
+#fvNormal {
+   font-variant: normal;
+}
+
+#fvSmallCaps {
+   font-variant: small-caps;
+}
+
+#fwNormal {
+   font-weight: normal;
+}
+
+#fwBold {
+   font-weight: bold;
+}
+
+#fwBolder {
+   font-weight: bolder;
+}
+
+#fwLighter {
+   font-weight: lighter;
+}
+
+#fszMedium {
+   font-size: medium;
+}
+
+#fszXXSmall {
+   font-size: xx-small;
+}
+
+#fszSmall {
+   font-size: small;
+}
+
+#fszXXLarge {
+   font-size: xx-large;
+}
+
+#fszLarge {
+   font-size: large;
+}
+
+#fszPrct {
+   font-size: 200%;
+}
+
+#fsz25pt {
+   font-size: 25pt;
+}
+
+#lhNormal {
+   line-height: normal;
+}
+
+#lh25pt {
+   line-height: 25pt;
+}
+
+#lh200prct {
+   line-height: 200%;
+}
+
+#lh200prct {
+   line-height: 200%;
+}
